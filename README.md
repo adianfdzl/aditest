@@ -1,2 +1,0 @@
-# aditest
-testing repo
